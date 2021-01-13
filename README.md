@@ -1,17 +1,5 @@
-# MarkDown
-
-## MarkDown Heading two
-
-### MarkDown Heading three
-
-fileName.md
-markdown syntax
-
-New paragraph.
- 
-List:
-- HTML
-- CSS
-- JavaScript
-
-New para.
+# Learn web development
+## publish my own code.
+- Structuring the Web
+- Styling the Web
+- Dynamic client-side scripting
