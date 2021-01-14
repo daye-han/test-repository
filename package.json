@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --output-style compact --watch scss --output css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daye-han/repository-setting.git"
+  },
+  "author": "daye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daye-han/repository-setting/issues"
+  },
+  "homepage": "https://github.com/daye-han/repository-setting#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
